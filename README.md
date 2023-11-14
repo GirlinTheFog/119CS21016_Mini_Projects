@@ -1,9 +1,6 @@
 # 119CS21016_Mini_Projects
 ---
 
-![Uploading image.png…]()
-
-<h1><center><font color='blue'>Mini Project Activity</font></center></h1>
 <h1><ins><center>Crimes in Boston</center></ins></h1>
 <div style="text-align: right">created<br>
 -- by Jesy Jeff Laura E<br>
