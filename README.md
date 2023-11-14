@@ -1,7 +1,8 @@
 # 119CS21016_Mini_Projects
 ---
 
-<img src="fg.jpg" width="150" height="300">
+![Uploading image.png…]()
+
 <h1><center><font color='blue'>Mini Project Activity</font></center></h1>
 <h1><ins><center>Crimes in Boston</center></ins></h1>
 <div style="text-align: right">created<br>
@@ -10,7 +11,8 @@
 
 ---
 
-![blob.jpg](attachment:blob.jpg)
+![image](https://github.com/GirlinTheFog/119CS21016_Mini_Projects/assets/135608335/2436fbb0-8d92-48fe-a5f9-3cfb7a79786a)
+
 
 ### **Boston, known as the "Hub of the Universe," is a city with a rich history and vibrant culture. Established in 1630, it played a significant role in the American Revolution and boasts numerous historical landmarks. Today, Boston is a thriving metropolis, home to prestigious universities like Harvard and MIT, fostering a climate of innovation and intellectual curiosity. The city's diverse neighborhoods each have their own unique charm, from the cobblestone streets of Beacon Hill to the bustling multicultural hub of Chinatown. With world-class museums, beautiful parks, passionate sports fans, and a lively arts scene, Boston offers a captivating blend of tradition and modernity, making it a captivating destination for residents and visitors alike.**
 
